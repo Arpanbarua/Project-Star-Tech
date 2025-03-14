@@ -1,9 +1,16 @@
 body
 {
-    font-family: sans-serif;
+    font-family: Arial;
 }
 
 tr.borderbottom td
 {
     border-bottom: 1px solid rgba(0, 0, 0, 0.068) ;
+}
+
+.borderbottom2
+{
+     box-shadow: 0 2px 0 0  rgba(0, 0, 0, 0.094); 
+    /* box-sizing: border-box; */
+    background: transparent;
 }
